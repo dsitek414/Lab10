@@ -19,5 +19,6 @@ public class FibSumDriver
 		}
 		
 		System.out.println("The sum of all odd Fibonacci terms less than 2 billion is " + oddSum);
+		// The sum of all odd Fibonacci terms less than 2 billion is 3321919439
 	}
 }
